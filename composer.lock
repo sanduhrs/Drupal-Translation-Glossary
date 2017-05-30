@@ -1668,12 +1668,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sanduhrs/drupal-l10n_glossary_profile.git",
-                "reference": "1193f394a83ad8894449c354ebd489618624be71"
+                "reference": "ee283edfad8b4771d577a3cee43ee8ce48abc245"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sanduhrs/drupal-l10n_glossary_profile/zipball/1193f394a83ad8894449c354ebd489618624be71",
-                "reference": "1193f394a83ad8894449c354ebd489618624be71",
+                "url": "https://api.github.com/repos/sanduhrs/drupal-l10n_glossary_profile/zipball/ee283edfad8b4771d577a3cee43ee8ce48abc245",
+                "reference": "ee283edfad8b4771d577a3cee43ee8ce48abc245",
                 "shasum": ""
             },
             "type": "drupal-profile",
@@ -1689,7 +1689,7 @@
                 "issues": "https://www.drupal.org/project/issues/l10n_glossary_profile",
                 "source": "http://cgit.drupalcode.org/l10n_glossary_profile"
             },
-            "time": "2017-05-30 15:10:38"
+            "time": "2017-05-30 15:23:41"
         },
         {
             "name": "drupal/l10n_translate",
