@@ -64,7 +64,6 @@
         "jcalderonzumba/gastonjs": "~1.0.2",
         "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
         "mikey179/vfsstream": "~1.2",
-        "phpstan/phpstan": "^0.7.0",
         "phpunit/phpunit": ">=4.8.28 <5",
         "symfony/css-selector": "~2.8"
     },
